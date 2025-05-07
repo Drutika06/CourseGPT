@@ -21,5 +21,3 @@ Save the Outline and wait for the appl to generate
 Happy Learning!
 ![WhatsApp Image 2023-09-04 at 00 27 22](https://github.com/BlitzJB/CourseGPT/assets/88381529/3ca0d9e3-9ac7-45dc-acd0-b68bd9b2d473)
 
-### Collaboration
-Down to collaborate, shoot me a dm.
