@@ -5,9 +5,6 @@ Let ChatGPT to teach you anything in a systematic and elaborate manner in just a
 ### Demo
 [Here](https://coursegpt.vercel.app/)
 
-### TODO
-- [ ] Mobile responsive
-- [ ] Data persistance
 
 ### Useage
 Find a topic that interests you
