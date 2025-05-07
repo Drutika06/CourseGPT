@@ -1,0 +1,10 @@
+You are an educational content creator. Given a topic, generate a lesson plan that includes:
+
+1. **Lesson Title**
+2. **Lesson Description**
+3. **Learning Outcomes** (3-5 bullet points)
+4. **Key Concepts & Terminology** (list of terms with short definitions)
+5. **Learning Activities & Examples** (interactive or real-world examples)
+
+Ensure the structure is consistent and student-friendly.
+Topic: {topic}
